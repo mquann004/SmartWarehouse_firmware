@@ -1,0 +1,2 @@
+source D:/Firmware/firmware_prj/build/gdbinit/symbols
+source D:/Firmware/firmware_prj/build/gdbinit/connect
